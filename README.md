@@ -1,3 +1,3 @@
-# geometry_quiz
+# Geography Quiz
 
 This is a simple quiz to test people's knowledge on the geography of the world.
